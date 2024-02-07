@@ -15,6 +15,6 @@ The "Title Highlight" plugin for WordPress allows you to highlight specific word
 ## Customization
 Currently, customization of the highlight style is performed directly in the `highlight_title.css` file within the plugin folder. You can edit this file to change the color, font size, and font family according to your preferences.
 
-## Upcoming Improvements
+## Improvements
 Add a configuration area in the WordPress admin panel, allowing users to easily customize visual aspects of the highlight, such as color, font size, and font family, without the need to directly edit the CSS file.
 
